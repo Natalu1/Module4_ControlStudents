@@ -1,0 +1,5 @@
+Year 1 - 8 - students - mediana: 4.8
+Year 2 - 7 - students - mediana: 5.0
+Year 3 - 3 - students - mediana: 4.5
+Year 4 - 3 - students - mediana: 4.25
+Year 5 - 2 - students - mediana: 3.75

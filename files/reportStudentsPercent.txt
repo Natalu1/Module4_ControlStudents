@@ -1,0 +1,5 @@
+Year 1 - 8 - students - mediana: 4.8 on this year studies 34.8% students
+Year 2 - 7 - students - mediana: 5.0 on this year studies 30.4% students
+Year 3 - 3 - students - mediana: 4.5 on this year studies 13.0% students
+Year 4 - 3 - students - mediana: 4.25 on this year studies 13.0% students
+Year 5 - 2 - students - mediana: 3.75 on this year studies 8.7% students
